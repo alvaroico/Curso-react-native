@@ -1,0 +1,83 @@
+#Home {
+  position: relative;
+  top: 26%;
+  display: flex;
+  width: 80vw;
+  left: 16%;
+}
+
+#Home > div.HomeTexto > a {
+  position: absolute;
+  width: 120px;
+  height: 59.65px;
+  top: 30px;
+  text-align: center;
+  background: #4f56f1;
+  border-radius: 6px;
+  width: 152px;
+  height: 63.82px;
+}
+#Home > div.HomeTexto > a {
+  padding-top: 15px;
+  padding-left: 0px;
+  text-align: center;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+
+  letter-spacing: 0.02em;
+
+  color: #ffffff;
+
+  display: block;
+  text-decoration: none;
+}
+#Home > div.HomeTexto > a:hover {
+  background: #020efa;
+}
+
+#Home > div.HomeTexto > h1 {
+  position: absolute;
+  width: 500px;
+  top: 100px;
+
+  font-family: Ramaraja;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 72px;
+  line-height: 76px;
+
+  letter-spacing: 0.02em;
+
+  color: #1b0a42;
+}
+
+#Home > div.HomeTexto > p {
+  position: relative;
+
+  top: 260px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 32px;
+
+  letter-spacing: 0.02em;
+}
+
+#Home > div.HomeImage {
+  display: flex;
+  width: 653px;
+  height: 604px;
+  left: 853px;
+  top: 186px;
+}
+
+#Home > div.HomeTexto > a{
+  position: relative;
+
+  top: 300px;
+}
